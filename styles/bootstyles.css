@@ -1,0 +1,43 @@
+p{
+    color:aliceblue;
+}
+
+#navigation{
+    background-color: rgba(47, 23, 15, 0.9);
+    padding: 30px;
+    font-family: "Raleway", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+.inner{
+    align-items: center;
+    text-align: center;
+}
+
+a{
+    color: rgba(220, 172, 132);
+}
+
+.footer{
+    background-color: rgba(47, 23, 15, 0.9);
+    padding: 30px;
+    font-family: "Raleway", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+.container{
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+    width: 100%;
+    padding-right: var(--bs-gutter-x, 0.75rem);
+    padding-left: var(--bs-gutter-x, 0.75rem);
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+#copyright{
+    color: rgba(220, 172, 132);
+}
+
+#linkedin{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
